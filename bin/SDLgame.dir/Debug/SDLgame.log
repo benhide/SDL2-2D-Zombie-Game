@@ -1,0 +1,9 @@
+﻿  23 File(s) copied
+  23 File(s) copied
+  GameManager.cpp
+C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\GameManager.cpp(858): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\GameManager.cpp(859): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\GameManager.cpp(983): warning C4244: 'initializing': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\GameManager.cpp(984): warning C4244: 'initializing': conversion from 'Sint32' to 'float', possible loss of data
+  SDLgame.vcxproj -> C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\bin\bin\SDLgame.exe
+  SDLgame.vcxproj -> C:/Users/benmh/Documents/Work/Second Year/Games Programming/SDLgame/bin/bin/SDLgame.pdb (Full PDB)

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\Bullet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\BulletSpawner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\Enemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\EnemyController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\GameManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\InputManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\Keys.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\LogManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\ScreenText.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\SoundManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\Sprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\TextureManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\Vector2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\Bullet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\BulletSpawner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\Enemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\EnemyController.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\GameManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\InputManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\Keys.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\LogManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\ScreenText.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\SoundManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\Sprite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\TextureManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\Vector2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\stb_truetype.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\src\json.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\benmh\Documents\Work\Second Year\Games Programming\SDLgame\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8C8981E4-7635-36EF-81A4-247563B60249}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C1A1FAD2-DD3C-301A-9C93-2E0C86D0613D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

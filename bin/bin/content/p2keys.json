@@ -1,0 +1,7 @@
+{
+	"shoot" : "p",
+	"left" : "j",
+	"right" : "l",
+	"up" : "i",
+	"down" : "k"
+}
