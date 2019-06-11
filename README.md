@@ -1,4 +1,4 @@
-# SDL2 2d Zombie Game
+# SDL2 2D Zombie Game
 C++ single-screen 2D video-game created using SDL libraries.
 
 Project demonstrate the following:
